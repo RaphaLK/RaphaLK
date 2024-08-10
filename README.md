@@ -4,8 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Computer Science and Engineering Major w/Math Minor @ Santa Clara University
 ----------------------------------------------------------------------------
 
-Welcome to my Github! I'm a Junior Undergraduate student at Santa Clara University. Some of my coursework(s) include Abstract Data Types & Data Structures, Object Oriented Programming, Logic Design, Embedded Systems, Cryptography, Theory of Algorithms, Web Development I, and Artificial Intelligence. By Summer 2024, my coursework will include: Operating Systems, Database Systems, Digital IC Design, Computer Networks, and Mathematical Finance.
-
+Welcome to my Github! I'm a Senior Undergraduate student at Santa Clara University. Some of my coursework(s) include Logic Design, Embedded Systems, Cryptography, Database Systems, Web Development, Artificial Intelligence, and Digital IC Design. By Summer 2025, my coursework will include: Networks, Computer Architecture, Software Engineering, Compilers.
 * 🌍  I'm based in Fremont, California
 * 🖥️  See my portfolio at [< thisHyperlink />](http://raphalk.github.io)
 * ✉️  You can contact me at [raphaelkusuma5@gmail.com](mailto:raphaelkusuma5@gmail.com)
