@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Raphael!
 ================================================================================================================================
 
-Computer Science and Engineering Major w/Math Minor @ Santa Clara University
+Computer Science and Engineering Major @ Santa Clara University
 ----------------------------------------------------------------------------
 
 Welcome to my Github! I'm a Senior Undergraduate student at Santa Clara University. Some of my coursework(s) include Logic Design, Embedded Systems, Cryptography, Database Systems, Web Development, Artificial Intelligence, and Digital IC Design. By Summer 2025, my coursework will include: Networks, Computer Architecture, Software Engineering, Compilers.
