@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Computer Science and Engineering Major @ Santa Clara University
 ----------------------------------------------------------------------------
 
-Welcome to my Github! I'm a Senior Undergraduate student at Santa Clara University. Some of my coursework(s) include Logic Design, Embedded Systems, Cryptography, Database Systems, Web Development, Artificial Intelligence, and Digital IC Design. By Summer 2025, my coursework will include: Networks, Computer Architecture, Software Engineering, Compilers.
+Welcome to my GitHub! I'm a Senior Undergraduate student at Santa Clara University. Some of my courseworks includes Logic Design, Embedded Systems, Cryptography, Database Systems, Web Development, Artificial Intelligence, and Digital IC Design. By Summer 2025, my coursework will include: Networks, Computer Architecture, Software Engineering, Compilers.
 * 🌍  I'm based in Fremont, California
 * 🖥️  See my portfolio at [< thisHyperlink />](http://raphalk.github.io)
 * ✉️  You can contact me at [raphaelkusuma5@gmail.com](mailto:raphaelkusuma5@gmail.com)
