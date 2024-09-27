@@ -1,10 +1,31 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Raphael!
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I'm Raphael!
 ================================================================================================================================
+🚀 Senior undergrad | 💻 Full Stack Developer | 🤖 AI/ML Explorer | 🎓 Class of 2025
 
 Computer Science and Engineering Major @ Santa Clara University
 ----------------------------------------------------------------------------
 
-Welcome to my GitHub! I'm a Senior Undergraduate student at Santa Clara University. Some of my courseworks includes Logic Design, Embedded Systems, Cryptography, Database Systems, Web Development, Artificial Intelligence, and Digital IC Design. By Summer 2025, my coursework will include: Networks, Computer Architecture, Software Engineering, Compilers.
+Hey there! Welcome to my GitHub! I'm an aspiring SWE, and I enjoy expanding my knowledge in the tech world!
+
+### Notable Courses (The ones I enjoyed the most!)
+* Logic Design
+* Embedded Systems
+* Digital IC Design
+* Web Development
+* Artificial Intelligence
+* Mathematical Cryptography
+
+
+### What I'm Up To
+🔬 Researching EMG-based hand movement interpretation for VR
+🌐 Developing a website to check degree audits & requirements for different Major/Minor combinations.
+📚 Expanding my knowledge in AI/ML and HCI
+
+### Did You Know?
+🎓 Former Resident Assistant
+🌎 Grew up in Jakarta!
+🎸 Ex-Ultimate Frisbee and Boxing
+
 * 🌍  I'm based in Fremont, California
 * 🖥️  See my portfolio at [< thisHyperlink />](http://raphalk.github.io)
 * ✉️  You can contact me at [raphaelkusuma5@gmail.com](mailto:raphaelkusuma5@gmail.com)
