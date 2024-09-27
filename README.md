@@ -5,7 +5,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Computer Science and Engineering Major @ Santa Clara University
 ----------------------------------------------------------------------------
 
-Hey there! Welcome to my GitHub! I'm an aspiring SWE, and I enjoy expanding my knowledge in the tech world!
+Hey there! Welcome to my GitHub! I'm an aspiring SWE, and I enjoy expanding my knowledge in the tech world! I started my Dev journey a bit later into my degree, but here I am :)
 
 ### Notable Courses (Some enjoyable examples!)
 * Logic Design
