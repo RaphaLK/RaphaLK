@@ -7,7 +7,7 @@ Computer Science and Engineering Major @ Santa Clara University
 
 Hey there! Welcome to my GitHub! I'm an aspiring SWE, and I enjoy expanding my knowledge in the tech world!
 
-### Notable Courses (The ones I enjoyed the most!)
+### Notable Courses (Some enjoyable examples!)
 * Logic Design
 * Embedded Systems
 * Digital IC Design
