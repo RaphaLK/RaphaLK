@@ -17,7 +17,7 @@ Hey there! Welcome to my GitHub! I'm an aspiring SWE, and I enjoy expanding my k
 * Database Systems
 
 ### What I'm Up To
-🔬 Researching EMG-based hand movement interpretation for VR
+🔬 Researching EMG-based face movement for voice interpretation
 🌐 Developing a website to check degree audits & requirements for different Major/Minor combinations.
 🚍 Also developing a Mobile App and a Web App to promote public transportation for the SCU Community!
 📚 Expanding my knowledge in AI/ML and HCI
