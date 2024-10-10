@@ -1,6 +1,6 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I'm Raphael!
 ================================================================================================================================
-🚀 Senior undergrad | 💻 Full Stack Developer | 🤖 AI/ML Explorer | 🎓 Class of 2025
+🚀 Senior undergrad | 💻 Full Stack Mobile App & Web Developer | 🤖 AI/ML Explorer | 🎓 Class of 2025
 
 Computer Science and Engineering Major @ Santa Clara University
 ----------------------------------------------------------------------------
