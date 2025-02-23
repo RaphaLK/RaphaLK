@@ -12,11 +12,13 @@ Hey there! Welcome to my GitHub! I'm an aspiring SWE, and I enjoy expanding my k
 * Digital IC Design
 * Web Development
 * Artificial Intelligence
+* Machine Learning
 * Mathematical Cryptography
 * Database Systems
 * Computer Networks
 * Operating Systems
 * Software Engineering
+* Compilers & Formal Language Theory
 
 ### What I'm Up To
 🔬 Researching EMG-based face movement for voice interpretation
