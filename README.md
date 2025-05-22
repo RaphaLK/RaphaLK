@@ -1,6 +1,6 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I'm Raphael!
 ================================================================================================================================
-🚀 Senior undergrad | 💻 Full Stack Mobile App & Web Developer | 🤖 AI/ML Explorer | 🎓 Class of 2025
+🚀 Senior undergrad | 💻 Full Stack Mobile App & Web Developer | 🎓 Class of 2025
 
 Computer Science and Engineering Major @ Santa Clara University
 ----------------------------------------------------------------------------
@@ -8,23 +8,15 @@ Computer Science and Engineering Major @ Santa Clara University
 Hey there! Welcome to my GitHub! I'm an aspiring SWE, and I enjoy expanding my knowledge in the tech world! I started my Dev journey a bit later into my degree, but here I am :)
 
 ### Notable Courses
-* Embedded Systems
 * Digital IC Design
 * Web Development
 * Artificial Intelligence
 * Machine Learning
-* Mathematical Cryptography
 * Database Systems
 * Computer Networks
 * Operating Systems
+* Human-Computer Interaction
 * Software Engineering
-* Compilers & Formal Language Theory
-
-### What I'm Up To
-🔬 Researching EMG-based face movement for voice interpretation
-🌐 Developing a website to check degree audits & requirements for different Major/Minor combinations.
-🚍 Also developing a Mobile App and a Web App to promote public transportation for the SCU Community!
-📚 Expanding my knowledge in AI/ML and HCI
 
 ### Did You Know?
 🎓 Former Resident Assistant
