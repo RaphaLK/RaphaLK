@@ -1,25 +1,15 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I'm Raphael!
 ================================================================================================================================
-🚀 Senior undergrad | 💻 Full Stack Mobile App & Web Developer | 🎓 M.S '2026
+🚀 (Previously) Undergraduate and Graduate Researcher | 💻 Full Stack Mobile & Web | 🎓 M.S '2026
 
 Computer Science and Engineering Major @ Santa Clara University
 ----------------------------------------------------------------------------
 
-Hey there! Welcome to my GitHub! I'm a senior and incoming grad student at SCU.
+Hey there! Welcome to my GitHub! I'm an incoming grad student at SCU. Lookin' to pivot to Software Systems.
+
 ### Current Roles
 * Mobile Software Developer for the EPIC Lab @ SCU
 * Full Stack Developer for the HCI Lab @ SCU
-
-### Notable Courses
-* Digital IC Design
-* Web Development
-* Artificial Intelligence
-* Machine Learning
-* Database Systems
-* Computer Networks
-* Operating Systems
-* Human-Computer Interaction
-* Software Engineering
 
 ### Did You Know?
 🎓 Former Resident Assistant
