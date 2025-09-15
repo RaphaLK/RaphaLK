@@ -3,9 +3,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 CSE @ Santa Clara University
 ----------------------------------------------------------------------------
-
-Hey there! Welcome to my GitHub! I'm an incoming grad student at SCU. Lookin' to pivot to Software Systems.
-
 ### Current Roles
 * Mobile Software Developer for the EPIC Lab @ SCU
 * Full Stack Developer for the HCI Lab @ SCU
