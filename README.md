@@ -3,6 +3,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 CSE @ Santa Clara University
 ----------------------------------------------------------------------------
+### Future Roles
+* Incoming SWE Intern @ Google
+
 ### Current Roles
 * Mobile Software Developer for the EPIC Lab @ SCU
 * Full Stack Developer for the HCI Lab @ SCU
